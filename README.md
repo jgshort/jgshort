@@ -4,10 +4,10 @@
 
 ___
 
-- [![Mastodon badge](https://img.shields.io/mastodon/follow/000055580?domain=https%3A%2F%2Fmastodon.online&style=social)](https://mastodon.online/@ctor)
-- [![Github badge](https://img.shields.io/github/followers/jgshort?style=social)](https://github.com/jgshort)
-- [![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ctor)](https://www.linkedin.com/in/ctor/)
-- [![Twitch badge](https://img.shields.io/twitch/status/ctortv?style=social)](https://twitch.tv/ctortv)
+[![Mastodon badge](https://img.shields.io/mastodon/follow/000055580?domain=https%3A%2F%2Fmastodon.online&style=social)](https://mastodon.online/@ctor)
+[![Github badge](https://img.shields.io/github/followers/jgshort?style=social)](https://github.com/jgshort)
+[![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ctor)](https://www.linkedin.com/in/ctor/)
+[![Twitch badge](https://img.shields.io/twitch/status/ctortv?style=social)](https://twitch.tv/ctortv)
 
 <!--
 **jgshort/jgshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
