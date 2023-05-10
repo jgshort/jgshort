@@ -11,7 +11,7 @@ ___
 
 ---
 
-- 🔭 I’m currently working on [a spooky game](https://github.com/jgshort/spooky) thing.
+- 🔭 I’m currently working on a spooky game [![LoC](https://img.shields.io/tokei/lines/github/jgshort/spooky)](https://github.com/jgshort/spooky) thing.
 
 
 
