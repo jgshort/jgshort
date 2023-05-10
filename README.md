@@ -9,6 +9,12 @@ ___
 [![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ctor)](https://www.linkedin.com/in/ctor/)
 [![Twitch badge](https://img.shields.io/twitch/status/ctortv?style=social)](https://twitch.tv/ctortv)
 
+---
+
+- 🔭 I’m currently working on [a spooky game](https://github.com/jgshort/spooky) thing.
+
+
+
 <!--
 **jgshort/jgshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
