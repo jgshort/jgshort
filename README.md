@@ -4,8 +4,8 @@
 
 ___
 
--[![Mastodon badge](https://img.shields.io/badge/mastodon-%40ctor-blueviolet&link=https://mastodon.online/%40ctor)](https://mastodon.online/@ctor)
--[![Github badge](https://img.shields.io/badge/Github-000000?style=flat&logo=github&link=https://github.com/jgshort)](https://github.com/jgshort)
+[![Mastodon badge](https://img.shields.io/badge/mastodon-%40ctor-blueviolet?link=https://mastodon.online/%40ctor)](https://mastodon.online/@ctor)
+[![Github badge](https://img.shields.io/badge/Github-000000?style=flat&logo=github&link=https://github.com/jgshort)](https://github.com/jgshort)
 [![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ctor)](https://www.linkedin.com/in/ctor/)
 
 <!--
