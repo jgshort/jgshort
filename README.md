@@ -17,6 +17,7 @@ ___
     - [![Lines of code](https://img.shields.io/tokei/lines/github/jgshort/spooky?style=flat-square)](https://github.com/jgshort/spooky)
 - 🔭 I have a terrible blog. You can read it [right now!](https://ctor.tv)!
     - Check out this post on creating a [glyph atlas in C](https://ctor.tv/blog/spooky-glyph-atlas/).
+    - I also posted the code [right here](https://github.com/jgshort/glyphs) on GitHub dot com.
 
 <!--
 **jgshort/jgshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
