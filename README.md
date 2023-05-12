@@ -15,6 +15,7 @@ ___
 
 - 🔭 I’m currently working on a [spooky game](https://github.com/jgshort/spooky) thing.
     - [![Lines of code](https://img.shields.io/tokei/lines/github/jgshort/spooky?style=flat-square)](https://github.com/jgshort/spooky)
+- 🔭 I have a terrible blog. You can read it [right now!](https://ctor.tv)!
 
 <!--
 **jgshort/jgshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
