@@ -1,8 +1,10 @@
 ### Hello there 👋
 
 - 😄 Pronouns: he/him
+- 🕹️ EGA for life!
+- 💾 C#/TypeScript professional; C/Ada hobbiest.
 
-Professional DevOps engineer, hobby game developer. I write code for fun!
+Hobby game developer. I code/coffee!
 
 ___
 
