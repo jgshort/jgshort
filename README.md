@@ -4,7 +4,7 @@
 - 🕹️ EGA for life!
 - 💾 C#/TypeScript professional; C/Ada hobbiest.
 
-Hobby game developer. I code/coffee!
+Hobby game developer.
 
 ___
 
