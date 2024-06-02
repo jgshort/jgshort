@@ -15,7 +15,7 @@ ___
 ---
 
 - 🔭 I’m currently working on a [spooky game](https://github.com/jgshort/spooky) thing.
-    - [![Lines of code](https://img.shields.io/tokei/lines/github.com/jgshort/spooky)]
+    - ![GitHub repo size](https://img.shields.io/github/repo-size/jgshort/spooky)
 - 🔭 I have a terrible blog. You can read it [right now!](https://ctor.tv)!
     - Check out this post on creating a [glyph atlas in C](https://ctor.tv/blog/spooky-glyph-atlas/).
     - I also posted the sample glyph atlas code [right here](https://github.com/jgshort/glyphs) on GitHub dot com.
