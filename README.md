@@ -26,7 +26,9 @@ ___
 
 - A [Silly Little Interview](https://github.com/jgshort/interview1) project I did.
 - Another [Silly Little Interview](https://github.com/jgshort/interview0) project from a while back.
-- The repository for the [Glyph Atlas](https://github.com/jgshort/glyphs) blog post available on [My Blob](https://ctor.tv/blog).
+- The repository for the [Glyph Atlas](https://github.com/jgshort/glyphs) blog post available on [My Blog](https://ctor.tv/blog).
+- A [C-based autotools](https://github.com/jgshort/cscaffold) scaffolding project I use for many of my toy game projects.
+- An incomplete and Really Terrible attempt at the [2022 Advent of Code](https://github.com/jgshort/AoC2022) in C.
 
 
 <!--
