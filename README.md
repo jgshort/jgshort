@@ -15,7 +15,8 @@ ___
 ---
 
 - 🔭 I’m currently working on a [spooky game](https://github.com/jgshort/spooky) thing.
-    - [![Lines of code](https://img.shields.io/tokei/lines/github/jgshort/spooky?style=flat-square)](https://github.com/jgshort/spooky)
+    - [![Lines of code]([https://img.shields.io/tokei/lines/github/jgshort/spooky?style=flat-square)](https://github.com/jgshort/spooky](https://img.shields.io/tokei/lines/github.com/jgshort/spooky
+))
 - 🔭 I have a terrible blog. You can read it [right now!](https://ctor.tv)!
     - Check out this post on creating a [glyph atlas in C](https://ctor.tv/blog/spooky-glyph-atlas/).
     - I also posted the sample glyph atlas code [right here](https://github.com/jgshort/glyphs) on GitHub dot com.
@@ -24,6 +25,7 @@ ___
 
 ### Repositories
 
+- The Really Terrible [Spooky](https://github.com/jgshort/spooky) game thing that I'm constantly changing.
 - A [Silly Little Interview](https://github.com/jgshort/interview1) project I did.
 - Another [Silly Little Interview](https://github.com/jgshort/interview0) project from a while back.
 - The repository for the [Glyph Atlas](https://github.com/jgshort/glyphs) blog post available on [My Blog](https://ctor.tv/blog).
