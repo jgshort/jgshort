@@ -20,6 +20,15 @@ ___
     - Check out this post on creating a [glyph atlas in C](https://ctor.tv/blog/spooky-glyph-atlas/).
     - I also posted the sample glyph atlas code [right here](https://github.com/jgshort/glyphs) on GitHub dot com.
 
+---
+
+### Repositories
+
+- A [Silly Little Interview](https://github.com/jgshort/interview1) project I did.
+- Another [Silly Little Interview](https://github.com/jgshort/interview0) project from a while back.
+- The repository for the [Glyph Atlas](https://github.com/jgshort/glyphs) blog post available on [My Blob](https://ctor.tv/blog).
+
+
 <!--
 **jgshort/jgshort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
